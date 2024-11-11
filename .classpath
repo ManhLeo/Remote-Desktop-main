@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/RemoteDesktop.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
